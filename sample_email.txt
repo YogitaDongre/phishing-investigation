@@ -1,0 +1,28 @@
+SIMULATED PHISHING EMAIL
+========================
+
+IMPORTANT: This is a fictional email created for cybersecurity training.
+No real organization, person, or malicious website is involved.
+
+From: IT Support <it-support@example.test>
+To: employee@example.test
+Reply-To: helpdesk@example.test
+Subject: Urgent: Account Verification Required
+
+Date: October 5, 2026
+
+--------------------------------------------------
+
+Hello,
+
+Our security team detected unusual activity on your account.
+
+To prevent temporary account restrictions, please verify your
+account information using the link below:
+
+https://login.example.test/verify
+
+Please complete the verification as soon as possible.
+
+Thank you,
+IT Support Team
