@@ -136,4 +136,4 @@ No real phishing infrastructure, malicious website, organization, credentials, o
 - Email security telemetry analysis
 - Automated detection and alerting
 - MITRE ATT&CK mapping
-- 
+  
